@@ -1,2 +1,2 @@
-# K-tphane-Y-netim-Sistemi
-Python nesne yönelimli programlamayla kütüphane yönetim sistemi oluşturulması.
+# Kutuphane-Yonetim-Sistemi
+Python nesne yönelimli programlamayla kütüphane yönetim sistemi oluşturulmuştur.
